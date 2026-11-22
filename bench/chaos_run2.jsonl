@@ -1,0 +1,24 @@
+{"killed": 1, "victims": [3], "phase_at_kill": "janken", "events_at_kill": 41, "takeover_s": 0.05, "finish_s": 2.87, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 0}
+{"killed": 2, "victims": [3, 1], "phase_at_kill": "rolling", "events_at_kill": 63, "takeover_s": 0.05, "finish_s": 7.59, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 1}
+{"killed": 1, "victims": [1], "phase_at_kill": "rolling", "events_at_kill": 42, "takeover_s": 0.05, "finish_s": 1.41, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 2}
+{"killed": 2, "victims": [3, 2], "phase_at_kill": "turn", "events_at_kill": 97, "takeover_s": 0.05, "finish_s": 7.9, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 3}
+{"killed": 1, "victims": [1], "phase_at_kill": "rolling", "events_at_kill": 46, "takeover_s": 0.05, "finish_s": 10.02, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 4}
+{"killed": 2, "victims": [3, 1], "phase_at_kill": "rolling", "events_at_kill": 45, "takeover_s": 0.05, "finish_s": 19.44, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 5}
+{"killed": 1, "victims": [0], "phase_at_kill": "rolling", "events_at_kill": 49, "takeover_s": 0.05, "finish_s": 8.91, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 6}
+{"killed": 2, "victims": [0, 2], "phase_at_kill": "janken", "events_at_kill": 34, "takeover_s": 0.05, "finish_s": 9.87, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 7}
+{"killed": 1, "victims": [3], "phase_at_kill": "rolling", "events_at_kill": 136, "takeover_s": 0.05, "finish_s": 8.26, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 8}
+{"killed": 2, "victims": [1, 2], "phase_at_kill": "janken", "events_at_kill": 42, "takeover_s": 0.05, "finish_s": 24.17, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 9}
+{"killed": 1, "victims": [0], "phase_at_kill": "janken", "events_at_kill": 50, "takeover_s": 0.05, "finish_s": 5.03, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 10}
+{"killed": 2, "victims": [0, 3], "phase_at_kill": "rolling", "events_at_kill": 49, "takeover_s": 0.05, "finish_s": 4.38, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 11}
+{"killed": 1, "victims": [0], "phase_at_kill": "turn", "events_at_kill": 75, "takeover_s": 0.05, "finish_s": 10.97, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 12}
+{"killed": 2, "victims": [2, 1], "phase_at_kill": "janken", "events_at_kill": 58, "takeover_s": 0.05, "finish_s": 6.39, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 13}
+{"killed": 1, "victims": [1], "phase_at_kill": "rolling", "events_at_kill": 85, "takeover_s": 0.05, "finish_s": 2.21, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 14}
+{"killed": 2, "victims": [1, 2], "phase_at_kill": "rolling", "events_at_kill": 53, "takeover_s": 0.05, "finish_s": 7.4, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 15}
+{"killed": 1, "victims": [3], "phase_at_kill": "turn", "events_at_kill": 67, "takeover_s": 0.05, "finish_s": 9.66, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 16}
+{"killed": 2, "victims": [0, 1], "phase_at_kill": "rolling", "events_at_kill": 67, "takeover_s": 0.05, "finish_s": 7.14, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 17}
+{"killed": 1, "victims": [2], "phase_at_kill": "janken", "events_at_kill": 62, "takeover_s": 0.05, "finish_s": 7.25, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 18}
+{"killed": 2, "victims": [0, 2], "phase_at_kill": "turn", "events_at_kill": 65, "takeover_s": 0.06, "finish_s": 18.12, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 19}
+{"killed": 1, "victims": [2], "phase_at_kill": "rolling", "events_at_kill": 46, "takeover_s": 0.05, "finish_s": 3.28, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 20}
+{"killed": 2, "victims": [2, 0], "phase_at_kill": "rolling", "events_at_kill": 56, "takeover_s": 0.05, "finish_s": 10.52, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 21}
+{"killed": 1, "victims": [0], "phase_at_kill": "rolling", "events_at_kill": 35, "takeover_s": 0.05, "finish_s": 7.4, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 22}
+{"killed": 2, "victims": [0, 1], "phase_at_kill": "rolling", "events_at_kill": 52, "takeover_s": 0.05, "finish_s": 9.51, "state_equal": true, "events_equal": true, "result": "ok", "leaked": false, "i": 23}
